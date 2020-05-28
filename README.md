@@ -1,4 +1,4 @@
-### Tutorial: React.js Controlled Form Components
+### React.js Controlled Form Components
 
 To get started:
  1. Make sure you're using Node 6 or higher (4 and higher will work, though)
