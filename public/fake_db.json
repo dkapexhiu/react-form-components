@@ -1,0 +1,49 @@
+{
+  "ownerName": "",
+  "petSelections": [
+    "dog",
+    "cat",
+    "rabbit",
+    "iguana",
+    "pony",
+    "ferret",
+    "fish",
+    "bird"
+  ],
+  "selectedPets": ["dog", "cat", "ferret"],
+  "ageOptions": ["18 - 25", "26 - 59", "60 or older"],
+  "ownerAgeRangeSelection": "",
+  "siblingOptions": ["yes", "no"],
+  "siblingSelection": ["yes"],
+  "currentPetCount": 0,
+  "description": "",
+  "options": [
+    { "label": "Thing 1", "value": 1 },
+    { "label": "Thing 2", "value": 2 },
+    { "label": "Thing 3", "value": 3 },
+    { "label": "Thing 4", "value": 4 },
+    { "label": "Thing 5", "value": 5 }
+  ],
+  "fruits": [
+    {
+      "id": 1,
+      "title": "apple"
+    },
+    {
+      "id": 2,
+      "title": "apricot"
+    },
+    {
+      "id": 3,
+      "title": "avocado"
+    },
+    {
+      "id": 4,
+      "title": "banana"
+    },
+    {
+      "id": 5,
+      "title": "bell pepper"
+    }
+  ]
+}
